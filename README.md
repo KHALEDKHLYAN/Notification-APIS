@@ -29,8 +29,9 @@
      }
 
 //  <------------- Complete Code ----------------------------->
-Lastly , Add Notification Using Notification API where the first
-argument is the title and the seccond (object) 
+Lastly , Add Notification Using Notification API where 
+the first argument is the title and the seccond (object) 
+
 are other options.
 
               const NotificationBtn =  document.querySelector(".notify");
