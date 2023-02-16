@@ -1,4 +1,9 @@
 # Notification-APIS
+1. Create a Button Using HTML
+2. Add a button With a class notify. Clicking this Button will eventually trigger the Javascript Notification Api
+..........................HTML CODE...............................
+
+                    <button class="notify">Notify Me</button>
 // Event Listener
 // Let's start with an event listener, Which will console.log a message when the button is clicked.
 
